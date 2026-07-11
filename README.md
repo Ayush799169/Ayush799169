@@ -19,7 +19,7 @@ Software Engineer | Frontend Developer | React.js Developer
 - 🌱 Currently learning Data Structures & Algorithms (C++) and improving React.js skills
 - 💼 Looking for Entry-Level Software Engineer / Frontend Developer opportunities
 
-🌐 Portfolio: **portfolio-app022.netlify.app**
+🌐 Portfolio: **https://portfolio-app022.netlify.app**
 
 📧 Email: **ay4708504@gmail.com**
 
