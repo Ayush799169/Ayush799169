@@ -19,7 +19,7 @@ Software Engineer | Frontend Developer | React.js Developer
 - 🌱 Currently learning Data Structures & Algorithms (C++) and improving React.js skills
 - 💼 Looking for Entry-Level Software Engineer / Frontend Developer opportunities
 
-🌐 Portfolio: **https://YOUR_PORTFOLIO_LINK**
+🌐 Portfolio: **portfolio-app022.netlify.app**
 
 📧 Email: **ay4708504@gmail.com**
 
@@ -37,7 +37,7 @@ Software Engineer | Frontend Developer | React.js Developer
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://YOUR_PORTFOLIO_LINK">
+<a href="https://portfolio-app022.netlify.app">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7"/>
 </a>
 
@@ -53,7 +53,7 @@ Software Engineer | Frontend Developer | React.js Developer
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,git,github,vscode,cpp" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,git,github,vscode,c++" />
 
 </p>
 
@@ -67,6 +67,7 @@ Software Engineer | Frontend Developer | React.js Developer
 | 💰 **AI Expense Tracker** | React.js, JavaScript | Smart expense tracking application with analytics and modern UI |
 | 🧠 **Real-Time Quiz Application** | HTML, CSS, JavaScript | Interactive quiz app with timer, score tracking and dynamic questions |
 | 🎬 **Movies / OTT Platform** | React.js, API | Responsive movie browsing application using REST APIs |
+| 🏢 **AI Chatboot** | React.js, Node.js, Express.js, MongoDB | MERN application with authentication, AI ChatBoot|
 | 🌐 **Personal Portfolio Website** | React.js, Tailwind CSS | Personal portfolio showcasing projects, skills, resume and contact information |
 
 ---
