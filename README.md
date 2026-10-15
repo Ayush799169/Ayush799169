@@ -1,121 +1,99 @@
-```markdown
-<h1 align="center">Hi 👋, I'm Ayush Kumar Yadav</h1>
+ <h1 align="center">👋 Hi, I'm Ayush Kumar Yadav</h1>
 
-<h3 align="center">
-Aspiring Cloud Infrastructure Engineer | Linux | AWS | Networking
-</h3>
+<h2 align="center">☁️ Aspiring Cloud Infrastructure Engineer</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=750&lines=Aspiring+Cloud+Infrastructure+Engineer;Learning+Linux+System+Administration;Exploring+AWS+Cloud;Building+and+Learning+Every+Day" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C7FF&center=true&vCenter=true&width=750&lines=MCA+Student+%7C+University+of+Lucknow;Aspiring+Cloud+Infrastructure+Engineer;Learning+Linux+%26+AWS;Exploring+Networking+%26+Cloud+Computing;Frontend+%26+MERN+Stack+Developer" alt="Animated introduction" />
 </p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Cloud%20Infrastructure-0A66C2?style=for-the-badge&logo=icloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Learning-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/OS-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
-## 🙋‍♂️ About Me
-
-- 🎓 BCA Graduate from Mahatma Gandhi Kashi Vidyapith, Varanasi
-- 🎓 Currently pursuing MCA at the University of Lucknow
-- 💻 Background in frontend and MERN stack development
-- 🐧 Learning Linux administration, commands, permissions, and troubleshooting
-- ☁️ Building knowledge of AWS cloud infrastructure and networking
-- 🚀 Interested in cloud support, infrastructure operations, and system administration
-- 🌱 Practising hands-on projects to strengthen my technical skills
-- 💼 Open to suitable entry-level opportunities as my skills develop
-
-🌐 **Portfolio:** https://portfolio-app022.netlify.app
-
-📧 **Email:** ay4708504@gmail.com
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/ayushyadav799169">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+<p align="center">
   <a href="https://github.com/Ayush799169">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile"/>
+  </a>
+  <a href="https://linkedin.com/in/ayushyadav799169">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="https://portfolio-app022.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Portfolio"/>
-  </a>
-  <a href="mailto:ay4708504@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=netlify" alt="Portfolio"/>
   </a>
 </p>
 
 ---
 
-## 🛠️ Technical Skills
+## 👨‍💻 About Me
 
-### Linux & Cloud — Currently Learning
-- Linux / Ubuntu fundamentals
-- File management, users, groups, and permissions
-- Linux text-processing commands
-- AWS cloud fundamentals
-- Computer networking fundamentals
+I'm an MCA student at the **University of Lucknow**, with a BCA background and experience in web development. I am currently building my knowledge of Linux, networking, and AWS to work towards a career in cloud infrastructure.
 
-### Web Development
-- HTML5, CSS3, JavaScript
-- React.js, Tailwind CSS
-- Node.js, Express.js, MongoDB
-- REST APIs
-
-### Programming & Tools
-- C, C++
-- Git and GitHub
-- VS Code
+- 🎓 **Education:** MCA — University of Lucknow
+- 🎓 **Previous Degree:** BCA — Mahatma Gandhi Kashi Vidyapith, Varanasi
+- ☁️ **Career Goal:** Cloud Infrastructure Engineer
+- 🐧 **Currently Learning:** Linux and system administration
+- 🌐 **Exploring:** Networking, AWS services, and cloud fundamentals
+- 💻 **Development Background:** React.js and MERN Stack
+- 🚀 **Goal:** Strengthen practical skills through hands-on projects
 
 ---
 
-## 🚀 Projects
+## 🧰 My Tech Stack
+
+### ☁️ Cloud & Systems — Currently Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,linux,bash" alt="AWS Linux Bash"/>
+</p>
+
+### 💻 Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb" alt="Web Development Skills"/>
+</p>
+
+### 🔧 Programming & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,git,github,vscode" alt="Programming Tools"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
 
 ### 1. Visitor Pass Management System
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB
+**Tech:** React.js · Node.js · Express.js · MongoDB
 
-- Developed a visitor management application.
-- Implemented visitor records, authentication, and digital pass generation.
-- Worked on frontend and backend integration.
+- Web application for managing visitor information and digital passes.
+- Includes visitor record management and authentication features.
 
 ### 2. Movies / OTT Platform
-**Tech Stack:** React.js, JavaScript, REST API, Tailwind CSS
+**Tech:** React.js · JavaScript · API · Tailwind CSS
 
-- Built a movie browsing interface using an external movie API.
-- Created responsive UI components for displaying movie information.
+- Movie browsing interface using an external API.
+- Displays movie information through a responsive user interface.
 
 ### 3. Personal Portfolio Website
-**Tech Stack:** React.js, Tailwind CSS
+**Tech:** React.js · Tailwind CSS
 
-- Created a portfolio to showcase projects, technical skills, and contact information.
-- Designed a responsive interface for different screen sizes.
+- Personal portfolio showcasing my projects, skills, and contact information.
 
-### 4. Linux Server Monitoring & Log Analysis
-**Status:** Planned / In Progress
+🌐 **Portfolio:** [Visit My Website](https://portfolio-app022.netlify.app)
 
-**Planned Tools:** Linux, Bash
+---
 
-- Practise checking system resources and analysing log files.
-- Build scripts for basic server health checks.
-- Document common troubleshooting steps.
+## ☁️ Cloud Infrastructure Projects
 
-### 5. AWS Static Website Hosting
-**Status:** Planned
+These are learning projects I plan to build and document as I progress.
 
-**Planned Services:** Amazon S3, IAM, optionally CloudFront
+- [ ] 🐧 **Linux Server Monitoring** — system checks, logs, and Bash scripting.
+- [ ] 🌍 **AWS Static Website Hosting** — S3, IAM, and optionally CloudFront.
+- [ ] 🖥️ **AWS Infrastructure Lab** — EC2, VPC, subnets, routing, and security groups.
 
-- Learn to host a static website on AWS.
-- Practise permissions, deployment, and basic security.
-- Document the setup and cleanup process.
-
-### 6. AWS VPC & EC2 Infrastructure Lab
-**Status:** Planned
-
-**Planned Services:** Amazon VPC, EC2, Security Groups, Route Tables
-
-- Practise creating a basic cloud network and virtual server.
-- Learn subnetting, routing, and access control.
-- Document the architecture and configuration.
+*The projects above are planned, not completed. I will update this section as I build them.*
 
 ---
 
@@ -126,28 +104,41 @@ Aspiring Cloud Infrastructure Engineer | Linux | AWS | Networking
 
 ---
 
-## 📚 Currently Learning
-
-- Linux system administration
-- Networking fundamentals: IP, DNS, HTTP/HTTPS
-- AWS cloud services and infrastructure
-- C++ and Data Structures & Algorithms
-
----
-
-## 📊 GitHub Stats
+## 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayush799169&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush799169&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ayush799169&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush799169&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ayush799169&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
 </p>
 
 ---
 
-<h3 align="center">⭐ Thanks for visiting my GitHub profile! ⭐</h3>
+## 🔥 Contribution Activity
 
 <p align="center">
-Learn • Build • Practise • Grow 🚀
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush799169&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Activity Graph"/>
 </p>
-```
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:ay4708504@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/ayushyadav799169">
+    <img src="https://img.shields.io/badge/LinkedIn-My_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://portfolio-app022.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-My_Work-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>🌱 Learn • Build • Practise • Grow 🚀</b>
+</p>
