@@ -1,14 +1,14 @@
  <h1 align="center">👋 Hi, I'm Ayush Kumar Yadav</h1>
 
-<h2 align="center">☁️ Aspiring Cloud Infrastructure Engineer</h2>
+<h2 align="center">☁️  Cloud Infrastructure Engineer</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C7FF&center=true&vCenter=true&width=750&lines=MCA+Student+%7C+University+of+Lucknow;Aspiring+Cloud+Infrastructure+Engineer;Learning+Linux+%26+AWS;Exploring+Networking+%26+Cloud+Computing;Frontend+%26+MERN+Stack+Developer" alt="Animated introduction" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C7FF&center=true&vCenter=true&width=750&lines=MCA+Student+%7C+University+of+Lucknow;Cloud+Infrastructure+Engineer;Linux+%26+AWS;Exploring+Networking+%26+Cloud+Computing;Frontend+%26+MERN+Stack+Developer" alt="Animated introduction" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Cloud%20Infrastructure-0A66C2?style=for-the-badge&logo=icloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Learning-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/OS-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
@@ -28,21 +28,20 @@
 
 ## 👨‍💻 About Me
 
-I'm an MCA student at the **University of Lucknow**, with a BCA background and experience in web development. I am currently building my knowledge of Linux, networking, and AWS to work towards a career in cloud infrastructure.
+I'm an MCA student at the **University of Lucknow**, with a BCA background and experience in web development 1 year. I am currently building my knowledge of Linux, networking, and AWS to work towards a career in cloud infrastructure.
 
 - 🎓 **Education:** MCA — University of Lucknow
 - 🎓 **Previous Degree:** BCA — Mahatma Gandhi Kashi Vidyapith, Varanasi
 - ☁️ **Career Goal:** Cloud Infrastructure Engineer
-- 🐧 **Currently Learning:** Linux and system administration
+- 🐧 **Currently Learning:** Linux and system administration Aws 
 - 🌐 **Exploring:** Networking, AWS services, and cloud fundamentals
-- 💻 **Development Background:** React.js and MERN Stack
-- 🚀 **Goal:** Strengthen practical skills through hands-on projects
+
 
 ---
 
 ## 🧰 My Tech Stack
 
-### ☁️ Cloud & Systems — Currently Learning
+### ☁️ Cloud & Systems  and Cloud Infrastructre 
 
 <p>
   <img src="https://skillicons.dev/icons?i=aws,linux,bash" alt="AWS Linux Bash"/>
@@ -70,12 +69,6 @@ I'm an MCA student at the **University of Lucknow**, with a BCA background and e
 - Web application for managing visitor information and digital passes.
 - Includes visitor record management and authentication features.
 
-### 2. Movies / OTT Platform
-**Tech:** React.js · JavaScript · API · Tailwind CSS
-
-- Movie browsing interface using an external API.
-- Displays movie information through a responsive user interface.
-
 ### 3. Personal Portfolio Website
 **Tech:** React.js · Tailwind CSS
 
@@ -101,6 +94,7 @@ These are learning projects I plan to build and document as I progress.
 
 - MERN Stack Development — Tutedude
 - AI for All Programme — TCS iON
+- Linux with Devops - training with Shubham
 
 ---
 
