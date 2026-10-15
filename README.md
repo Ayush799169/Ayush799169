@@ -50,7 +50,7 @@ I'm an MCA student at the **University of Lucknow**, with a BCA background and e
 ### 💻 Web Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb" alt="Web Development Skills"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" alt="Web Development Skills"/>
 </p>
 
 ### 🔧 Programming & Tools
