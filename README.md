@@ -139,36 +139,5 @@ Cloud Infrastructure Engineer. Plan: Linux, Networking, AWS (EC2, VPC, S3, IAM),
 
 ## 🗓 Log
 
-### Day 1: 9 Oct 2026
-- Topic: files, folders and copying
-- Commands: `pwd` `ls` `cd` `mkdir` `touch` `vim` `cat` `cp` `rm`
-- Learned: absolute vs relative paths, `cp source destination`
-
-### Day 2: 10 Oct 2026
-- Topic: moving, renaming and searching
-- Commands: `mv` `less` `find` `rm -r` `mkdir -p` `history`
-- Learned: `cp` copies, `mv` moves or renames; `rm -r` deletes folders permanently
-
-### Day 3: 11 Oct 2026
-- Topic: wildcards and redirection
-- Commands: `*` `?` `echo` `>` `>>` `rmdir`
-- Learned: `>` overwrites, `>>` appends
-
-### Day 4: DATE
-- Topic:
-- Commands:
-- Learned:
-
-## ✅ Progress
-- [x] Navigation and files
-- [x] Redirection
-- [ ] grep, head, tail, pipes
-- [ ] Permissions, users, processes, cron, SSH
-- [ ] Bash scripting
-- [ ] Networking basics
-- [ ] AWS core services
-- [ ] AWS Cloud Practitioner exam
-
----
 
 <p align="center"><b>🌱 Learn • Build • Practise • Grow 🚀</b></p>
