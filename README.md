@@ -27,7 +27,7 @@
 
 ## 👨‍💻 About Me
 
-MCA student at the **University of Lucknow** (BCA from MGKVP, Varanasi) with about a year of web development experience in **React, Node.js and MongoDB**. My goal is to work in **cloud infrastructure**: Linux servers, networking and AWS. I practise every day and log my progress below.
+I am MCA student at the **University of Lucknow** (BCA from MGKVP, Varanasi) with about a year of web development experience in **React, Node.js and MongoDB**. My goal is to work in **cloud infrastructure**: Linux servers, networking and AWS. I practise every day and log my progress below.
 
 | | |
 |---|---|
@@ -55,29 +55,6 @@ MCA student at the **University of Lucknow** (BCA from MGKVP, Varanasi) with abo
 
 ---
 
-## 📅 Daily Learning Log
-
-I practise Linux in the terminal and note what I did each day. Full notes will live in my `cloud-learning-log` repository.
-
-| Day | Date | Topic | Commands practised |
-|:-:|:-:|---|---|
-| 1 | 9 Oct 2026 | Files, folders and copying | `pwd` `ls` `cd` `mkdir` `touch` `vim` `cat` `cp` `rm` |
-| 2 | 10 Oct 2026 | Moving, renaming, searching | `mv` `less` `find` `rm -r` `mkdir -p` `history` |
-| 3 | 11 Oct 2026 | Wildcards and redirection | `*` `?` `echo` `>` `>>` `rmdir` |
-| 4 | | | |
-
-### ✅ Learning Roadmap
-
-- [x] Linux: navigation, files and directories
-- [x] Linux: reading files (`cat`, `less`), searching (`find`), redirection (`>`, `>>`)
-- [ ] Linux: `grep`, `head`, `tail`, pipes, `sort`, `wc`
-- [ ] Linux: permissions, users, processes, `cron`, SSH
-- [ ] Bash scripting
-- [ ] Networking: IP, subnet, DNS, ports, HTTP
-- [ ] AWS: EC2, VPC, S3, IAM
-- [ ] AWS Certified Cloud Practitioner
-
----
 
 ## 🚀 Featured Projects
 
